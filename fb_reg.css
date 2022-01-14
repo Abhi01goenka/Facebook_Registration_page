@@ -1,0 +1,63 @@
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/598/262/original/abstract-colorful-low-poly-vector-background-with-cool-gradient-futuristic-pattern.jpg"); 
+    background-size:cover; 
+    background-repeat: no-repeat;
+    font-family: cursive;
+}
+h1{
+    color: blue;
+    font-family:cursive;
+    font-weight: bolder;
+    font-size: 50px;
+}
+td{
+    font-size: large;
+    
+}
+.dob{
+    width: 100%;
+    font-size: large;
+    border-radius: 6px;
+    padding: 2px 2px 2px 2px;
+    font-family: cursive;
+
+}
+.B{
+    width: 95%;
+    font-size: large;
+    background-color: white; 
+    border-radius: 6px;
+    padding: 2px 2px 2px 2px;
+    font-family: cursive;
+}
+.C{
+    width: 98%;
+    font-size: large;
+    background-color: white; 
+    border-radius: 6px;
+    padding: 2px 2px 2px 2px;
+    font-family: cursive;
+}
+#sign_up{
+    font-size: x-large;
+    color: whitesmoke;
+    background-color: rgb(54, 156, 23);
+    font-weight: bolder;
+    font-family: sans-serif;
+    width: 150px;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.gen{
+    border-style:groove;
+    border-radius: 6px;
+    padding: 2px 2px 2px 2px;
+}
+.wrapper{
+    margin: auto;
+    width: 500px;
+    background-color: #fff;
+    border-radius: 3%;
+    padding-bottom: 10px;
+}
